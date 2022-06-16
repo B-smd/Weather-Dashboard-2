@@ -4,14 +4,15 @@
 This weather dashboard allows users to search for a city to get the current weather and 5 day forecast. It will display the city name, the date, an icon reprentation of weather conditions, the temperature, the humidity, the wind speed and the UV index. The UV index will be color code. This Weather Dasboard was created using The Open Weather Map data API, allow me to access their data and functionality by making request with a specific parameters to a URL with a subscription to get an APIkey, in order to get all the information about the weather condition. The initial search based on city name returns latitute and longitude coordinates, and these coordinates are used in the UV index get request.Also I used Javascript Date object, in order to display dates on the current condition and forecast, return by the Open Weather Map response is converted into a Date, then getDate, getMonth and getFullYear methods to generate the date strings displayed on the page. I used One Call API for free subscrition. To get Quickly design and customize responsive mobile-first site using Bootstrap is very helpfull as a powerful JavaScrip plugins. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others.
 
 ## Demo
+
 ![Weather-Dashboard](./img/ScreenShot.png)
 ![Weather-Dashboard](./img/ScreenShot1.png)
 
 ## Link to Website
 
-https://b-smd.github.io/Weather-Dashboard/
+https://b-smd.github.io/Weather-Dashboard-2/
 
-https://github.com/B-smd/Weather-Dashboard
+https://github.com/B-smd/Weather-Dashboard-2.git
 
 ## Technologies Used
 - HTML
